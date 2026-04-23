@@ -65,7 +65,7 @@ Responsive frontend project focused on clean UI/UX.
 
 ## 🗣️ Languages
 
-![English](https://img.shields.io/badge/English-B2-blue?style=for-the-badge)
+![English](https://img.shields.io/badge/English-C2-blue?style=for-the-badge)
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=for-the-badge)
 
 ---
